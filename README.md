@@ -26,7 +26,7 @@ Adaptaviz is a decision support tool. It was realized during the [Hacktaferme](h
 It allows to estimate on a plot of land which crops will be the most adapted for future climate.
 It is based on 3 climate projections of greenhouse gas emission and has 4 years of reference (today, 2050, 2075, 2100). The thermal and water stress scores were calculated from climate projections and plant's phenotypes. 
 
-The tool aims to help agricultors and regional politicians to anticipate if they were to maintain the production of a given crop or whether they should change the type of harvest given climate deregulation.
+The tool aims to help agricultors and regional politicians to anticipate if they were to maintain the production of a given crop or whether they should change their harvest.
 
 
 [Score calculations algorithms](https://github.com/owalid/adaptaviz/tree/main/score)
