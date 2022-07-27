@@ -21,12 +21,12 @@ Le preneur de décision aura la possibilité de savoir s'il pourra maintenir ses
 
 This project was realized by: [Mathieu Jouffroy](https://www.linkedin.com/in/mathieu-jouffroy/), [Gabriel Colas](https://www.linkedin.com/in/gabriel-colas-842250173/), [Clara Reichert](https://www.linkedin.com/in/clara-reichert0/), [Mai-Nhi Vo Van Tao](https://www.linkedin.com/in/mai-nhi-vo-van-tao/), [Samuel BOYER](https://www.linkedin.com/in/samuel-boyer-27724b158/), [Naïm Del Ben](https://www.linkedin.com/in/naimdb/) and [Othmane EL-AYADI](https://www.linkedin.com/in/othmane-el-ayadi/).
 
-Adaptaviz is a decision support tool. It was realized during the [Hacktaferme](https://www.hacktaferme.fr/) hackathon of the Varenne agricole de l'eau et de l'adaptation au changement climatique.
+Adaptaviz is a decision support tool. It was realized during the [Hacktaferme](https://www.hacktaferme.fr/) hackathon. The hackathon was organised by the French ministry of Agriculture and the subject was : Water stress and climate change adaptation. 
 
 It allows to estimate on a plot of land which crops will be the most adapted for future climate.
 It is based on 3 climate projections of greenhouse gas emission and has 4 years of reference (today, 2050, 2075, 2100). The thermal and water stress scores were calculated from climate projections and plant's phenotypes. 
 
-The tool aims to help agricultors and regional politicians to anticipate if they were to maintain the production of a given crop or whether they should change their harvest.
+The tool helps agricultors and regional politicians to anticipate if they were to maintain the production of a given crop or whether they should change their harvest.
 
 
 [Score calculations algorithms](https://github.com/owalid/adaptaviz/tree/main/score)
