@@ -23,7 +23,7 @@ This project was realized by: [Mathieu Jouffroy](https://www.linkedin.com/in/mat
 
 Adaptaviz is a decision support tool. It was realized during the [Hacktaferme](https://www.hacktaferme.fr/) hackathon. The hackathon was organised by the French ministry of Agriculture and the subject was : Water stress and climate change adaptation. 
 
-It allows to estimate on a plot of land which crops will be the most adapted for future climate.
+This solution allows to estimate on a plot of land which crop will be the most adapted for future climate.
 It is based on 3 climate projections of greenhouse gas emission and has 4 years of reference (today, 2050, 2075, 2100). The thermal and water stress scores were calculated from climate projections and plant's phenotypes. 
 
 The tool helps agricultors and regional politicians to anticipate if they were to maintain the production of a given crop or whether they should change their harvest.
